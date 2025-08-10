@@ -1,0 +1,28 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    height: 100%;
+    background-color: rgb(138, 137, 137);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin-top:20%;
+    padding:30px;
+    background-color: white;
+}
+h1{
+    font-size: 40px;
+}
+input{
+    padding:10px;
+}
+li{
+    margin: 10px 0px 10px 0px;
+    font-size: 25px;
+    display: flex;
+    gap:10px;
+}
